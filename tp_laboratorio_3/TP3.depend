@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1540516366 source:/home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1533133022 /home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/LinkedList.h
+
+1540516231 /home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/Employee.h
+
+1540515420 source:/home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 /home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/Controller.h
+
+1540512233 source:/home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1540516300 source:/home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/Employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+
+1533133022 /home/alumno/Descargas/CASCARA_TP3/TP3/Linux_64/parser.h
+
+1540927065 source:c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1540854648 c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\linkedlist.h
+
+1540925881 c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\employee.h
+	"LinkedList.h"
+
+1540854648 c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\parser.h
+
+1540926622 source:c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"utn.h"
+
+1540927609 source:c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1540854648 c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\controller.h
+
+1540925545 source:c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1540925545 c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1540926476 source:c:\users\cris_\onedrive\documentos\git hub\progrmacion1clases\clase 18 archivos\cascara_tp3\tp3\win_32\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1540946846 source:/home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1540935492 /home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/LinkedList.h
+
+1540935492 /home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/Employee.h
+	"LinkedList.h"
+
+1540935492 /home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/parser.h
+
+1540935492 /home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1540945613 source:/home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/Employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"utn.h"
+
+1540948260 source:/home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1540935492 /home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/Controller.h
+
+1540948142 source:/home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1540939032 source:/home/alumno/Documentos/github/claseaclase/Clase 18 Archivos/CASCARA_TP3/TP3/Win_32/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"LinkedList.h"
+
+1541526149 source:c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541185843 c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\linkedlist.h
+
+1541524900 c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\employee.h
+	"LinkedList.h"
+
+1541185843 c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\parser.h
+
+1541185843 c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1541524900 source:c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"utn.h"
+
+1541525827 source:c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1541185843 c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\controller.h
+
+1541185843 source:c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1541188072 source:c:\users\cris_\onedrive\documentos\git hub\claseaclase\clase 18 archivos\cascara_tp3\tp3\win_32\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"LinkedList.h"
+
